@@ -17,7 +17,7 @@ Está escrito en `Javascript` utilizando `React` para modular los segmentos del 
 
 ## Correr el proyecto.
 
-```git clone https://github.com/AxelFuzzi/ProyectoFinalReactHardwareOnlineFuzzi```
+```git clone https://github.com/AxelFuzzi/ProyectoFinalReactHardwareOnlineFuzzi.git```
 
 ```npm install```
 
